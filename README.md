@@ -1,5 +1,6 @@
 # HordeUnity2DGame
 ***Download full master to run and play game***
+
 README: Horde by Matt Hay, Josiah Findley, and Aaron Hammer Huber
 
 Horde has 2 modes: A 2 player, 1v1 gunfight mode and a 2 player co-op survival mode
